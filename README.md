@@ -1,6 +1,7 @@
 # ClassificationYOLOV8
 
 command prompt >>
+
                       python -m venv .venv
 
                       .venv\Scripts\activate

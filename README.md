@@ -1,5 +1,5 @@
 # ClassificationYOLOV8
-
+Dataset : https://universe.roboflow.com/ice498/ripeness-detection-35sf9/dataset/2#
 command prompt >>
 
                       python -m venv .venv
